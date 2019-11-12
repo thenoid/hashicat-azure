@@ -3,7 +3,7 @@ terraform {
     hostname = "app.terraform.io"
     organization = "rocky"
     workspaces {
-      name = "rolsen-hashicat"
+      name = "hashicat-azure"
     }
   }
 }
